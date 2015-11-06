@@ -10,4 +10,6 @@ other than what is here.
 Needed to compile dz099i
 sudo apt-get install build-essential autoconf unzip liballegro4.2 liballegro4.2-dev texinfo
 
+also change the scantool makefile so it ignores errors
+
 
