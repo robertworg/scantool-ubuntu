@@ -7,5 +7,7 @@ To compile you'll still need to use apt to retrieve a bunch of dependent
 libraries but you shouldn't have to manually download and compile anything
 other than what is here.
 
+Needed to compile dz099i
+sudo apt-get install build-essential autoconf unzip liballegro4.2 liballegro4.2-dev texinfo
 
 
